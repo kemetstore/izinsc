@@ -1,7 +1,6 @@
-format :
-### user tahun-bulan-tanggal ipvps
-contoh :
-### kemet1 2026-9-1 165.232.165.13
+format : contoh
+### user tahun-bulan-tanggal ipvp
 
 ### buyervps  2025-10-21 104.28.39.111
 ### kemet 2025-10-10 157.245.61.52
+### kemet1 2026-9-9 165.232.165.13
